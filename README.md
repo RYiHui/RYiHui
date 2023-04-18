@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RYiHui
 - 👀 I’m interested in CV 
-- 🌱 I’m currently learning how to aplly AI model to real task.
+- 🌱 I’m currently learning how to apply AI model to real task.
 - 💞️ I’m looking to collaborate on vision task
 - 📫 How to reach me renyihui@hotmail.com
 
